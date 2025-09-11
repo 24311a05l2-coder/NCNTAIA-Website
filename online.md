@@ -30,7 +30,7 @@
 | Time        | Paper ID | Title                                                    | Presenter(s) | Mode   |
 |-------------|----------|----------------------------------------------------------|--------------|--------|
 | 2:00–2:15   | 206      | FixIT – The Community Report App                         | Rithika M., Preethi M., Mubeena Banu M. | Online |
-| 2:30–2:45   | 0        | Edge AI on Smart Farming                                 | Poojitha M.D, Manasa B., Shivashakthi U. | Online |
+| 2:30–2:45   | 800        | Edge AI on Smart Farming                                 | Poojitha M.D, Manasa B., Shivashakthi U. | Online |
 | 2:45-3:00   | 102      | CereBro: A Cloud-Integrated Android Application for Cognitive Disorder Screening | Thrilochan Reddy Vemula,Chetan Aditya Lakka, Bharath Chandra Ganji, C.Sruthi | online |
 | 3:00-3:15   | 112      | prototype ai tutor ai ch | Venkata Sai Radhika Ande,Dr P Deepthi | online |
 ---
